@@ -1,3 +1,5 @@
 import 'package:flutter/material.dart';
 
-final theme = ThemeData(colorScheme: ColorScheme.fromSeed(seedColor: Colors.black));
+final theme = ThemeData(
+  colorScheme: ColorScheme.fromSeed(seedColor: Colors.black),
+);
